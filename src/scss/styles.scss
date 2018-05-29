@@ -1,0 +1,36 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    height:100vh;
+    margin-bottom: 50px;
+}
+.img-fundo{
+    background-image:url(../assets/eu2.png);
+    background-size: cover;
+}
+.sticky-black{
+    background-color: rgba(0,0,0,0.8);
+}
+.border{
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    border-width: 15px;
+}
+
+.corborda{
+    color:#2b4162;
+}
+.img-rounded{
+    border-radius: 50%;
+}
+.face-cor{
+    background-color: #2554a3;
+}
+.linkedin-cor{
+    background-color: #007cb9;
+}
+.git-cor{
+    background-color: #000;
+}
